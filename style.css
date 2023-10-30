@@ -1,0 +1,20 @@
+
+
+.week-1 {
+  display: flex;
+}
+.week{
+  display: inline-block;
+  background-color: rgb(230, 230, 230);
+}
+.btn{
+  text-decoration: underline;
+}
+.section {
+  width: 100%;
+  margin-left: 50px;
+}
+
+.week-1-b {
+  width: 10%;
+}
